@@ -9,6 +9,10 @@
     background: var(--color-bg);
   }
   
+  body::-webkit-scrollbar{
+    display: none;
+  }
+
   a {
     color: unset;
     text-decoration: none;

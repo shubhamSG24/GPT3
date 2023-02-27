@@ -1,12 +1,11 @@
 .gpt3__footer {
-    border: 1px solid white;
-    color: white;
-
+    border: 5px solid #fff;
+    color: #fff;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
+    
     background: var(--color-footer);
 }
 
@@ -109,9 +108,6 @@
     margin: 0.5rem 0;
     cursor: pointer;
 }
-
-
-
 
 .gpt3__footer-copyright {
     margin-top: 2rem;
